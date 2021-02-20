@@ -1,4 +1,15 @@
-### Hi there 👋
+### Who am I 👋
+- I'm Paul
+- 📱 Mobile Developer
+- 🎮 Video game enthusiast
+- love to learning
+
+
+### What skills do I have
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg = 128x)
+
+### How to reach me
+
 
 <!--
 **easylive1989/easylive1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
