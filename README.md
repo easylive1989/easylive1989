@@ -6,7 +6,7 @@
 
 
 ### What skills do I have
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg = 128x)
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)
 
 ### How to reach me
 
