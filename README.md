@@ -1,27 +1,12 @@
-### Who am I 👋
-- I'm Paul
-- 📱 Mobile Developer
-- 🎮 Video game enthusiast
-- love to learning
+<h1>Who am I 👋</h1>
 
+<ul>
+  <li>📱 Mobile Developer</li>
+  <li>🎮 Video game enthusiast</li>
+  <li>love to learning</li>
+</ul>
 
-### What skills do I have
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg =64x64)
+<h1>What skills do I have</h1>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48">
 
-### How to reach me
-
-
-<!--
-**easylive1989/easylive1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>How to reach me</h1>
