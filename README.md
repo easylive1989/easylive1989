@@ -1,4 +1,4 @@
-<h3>👋 Who am I</h3>
+<h3>👋 Who I am</h3>
 
 <ul>
   <li>📱 Full Stack Mobile Developer</li>
