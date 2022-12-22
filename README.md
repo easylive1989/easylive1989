@@ -46,11 +46,13 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 </p>
+
 # 📊 Statistics
 <p floa="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easylive1989" />
     <img src="https://github-readme-stats.vercel.app/api?username=easylive1989" />
 </p>
+
 # 🔧 My Works
 <p floa="left">
 <a href="https://easylive1989.medium.com/">
