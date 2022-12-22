@@ -8,7 +8,7 @@
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feasylive19891212%2Fhit-counter" />
 
-# 📝 Blog posts
+# 📝 Medium posts
 <!-- BLOG-POST-LIST:START -->
 - [用 Flutter Web 製作 Chrome Extension 個人看板](https://easylive1989.medium.com/%E7%94%A8-flutter-web-%E8%A3%BD%E4%BD%9C-chrome-extension-%E5%80%8B%E4%BA%BA%E7%9C%8B%E6%9D%BF-43981f683e80?source=rss-e16ddedcd5d2------2)
 - [畫面莫名其妙地重 build 了](https://easylive1989.medium.com/%E7%95%AB%E9%9D%A2%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E5%9C%B0%E9%87%8D-build-%E4%BA%86-9cffb3f95cc5?source=rss-e16ddedcd5d2------2)
