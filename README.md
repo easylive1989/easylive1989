@@ -8,6 +8,9 @@
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feasylive19891212%2Fhit-counter" />
 
+<h3>📝 Blog posts</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3>🔧 Skills</h3>
 <p floa="left">
