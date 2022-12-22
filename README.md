@@ -1,4 +1,4 @@
-<h3>🖐 Paul Wu</h3>
+# 🖐 Paul Wu
 
 <li><img width="20" src="https://cdn.simpleicons.org/android" /> 3 years Android developer</li>
 <li><img width="20" src="https://cdn.simpleicons.org/dotnet" />
@@ -8,7 +8,7 @@
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feasylive19891212%2Fhit-counter" />
 
-<h3>📝 Blog posts</h3>
+# 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [用 Flutter Web 製作 Chrome Extension 個人看板](https://easylive1989.medium.com/%E7%94%A8-flutter-web-%E8%A3%BD%E4%BD%9C-chrome-extension-%E5%80%8B%E4%BA%BA%E7%9C%8B%E6%9D%BF-43981f683e80?source=rss-e16ddedcd5d2------2)
 - [畫面莫名其妙地重 build 了](https://easylive1989.medium.com/%E7%95%AB%E9%9D%A2%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E5%9C%B0%E9%87%8D-build-%E4%BA%86-9cffb3f95cc5?source=rss-e16ddedcd5d2------2)
@@ -17,7 +17,7 @@
 - [在 Flutter App 中整合 Google Play In-App-Billing](https://medium.com/cloud-latitude-engineering-blog/%E5%9C%A8-flutter-app-%E4%B8%AD%E6%95%B4%E5%90%88-google-play-in-app-billing-306e78094a8e?source=rss-e16ddedcd5d2------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3>🔧 Skills</h3>
+# 🔧 Skills
 <p floa="left">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -46,12 +46,12 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 </p>
-<h3>📊 Statistics</h3>
+# 📊 Statistics
 <p floa="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easylive1989" />
     <img src="https://github-readme-stats.vercel.app/api?username=easylive1989" />
 </p>
-<h3>🔧 My Works</h3>
+# 🔧 My Works
 <p floa="left">
 <a href="https://easylive1989.medium.com/">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
