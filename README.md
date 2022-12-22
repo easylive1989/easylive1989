@@ -1,9 +1,10 @@
-<h3>👋 Who I am</h3>
+<h3>🖐 Paul Wu</h3>
 
-<ul>
-  <li>📱 Full Stack Mobile Developer</li>
-  <li>🎮 Video/Mobile Game Enthusiast</li>
-</ul>
+<li><img width="20" src="https://cdn.simpleicons.org/android" /> 3 years Android developer</li>
+<li><img width="20" src="https://cdn.simpleicons.org/dotnet" />
+  <img width="20" src="https://cdn.simpleicons.org/javascript" /> 3 years Full stack developer</li>
+<li><img width="20" src="https://cdn.simpleicons.org/flutter" /> 3 years Flutter developer</li>
+<br>
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feasylive19891212%2Fhit-counter" />
 
