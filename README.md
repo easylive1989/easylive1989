@@ -1,17 +1,5 @@
 # 🖐 Paul Wu
 
-<table>
-  <tr>
-    <td><img width="50" src="images/seal-csd.png" /></td>
-    <td>
-      <li><img width="20" src="https://cdn.simpleicons.org/android" /> 3 years Android developer</li>
-      <li><img width="20" src="https://cdn.simpleicons.org/dotnet" /><img width="20" src="https://cdn.simpleicons.org/javascript" /> 3 years Full stack developer</li>
-      <li><img width="20" src="https://cdn.simpleicons.org/flutter" /> 3 years Flutter developer</li>
-    </td>
-  </tr>
-</table>
-<br>
-
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feasylive19891212%2Fhit-counter" />
 
 # 📝 Medium posts
