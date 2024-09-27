@@ -38,22 +38,47 @@
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff" />
 </p>
 
+
+# 🔧 My Works
+### Portfolio
+<p floa="left">
+<a href="https://play.google.com/store/apps/developer?id=Paul+Wu">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+</a>
+<a href="https://easylive1989.github.io./">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+</a>
+</p>
+
+### Challenge
+<p floa="left">
+<a href="https://ithelp.ithome.com.tw/users/20129825/ironman/3440">
+    <img src="https://img.shields.io/badge/%E5%AE%8C%E8%B3%BD-12th%20iThome%20%E9%90%B5%E4%BA%BA%E8%B3%BD-2485c2" />
+</a>
+<a href="https://ithelp.ithome.com.tw/users/20129825/ironman/4992">
+    <img src="https://img.shields.io/badge/%E4%BD%B3%E4%BD%9C-2022%20iThome%20%E9%90%B5%E4%BA%BA%E8%B3%BD-2485c2" />
+</a>
+<a href="https://ithelp.ithome.com.tw/users/20129825/ironman/5974">
+    <img src="https://img.shields.io/badge/%E4%BD%B3%E4%BD%9C-2023%20iThome%20%E9%90%B5%E4%BA%BA%E8%B3%BD-2485c2" />
+</a>
+</p>
+
 # 📊 Statistics
 <p floa="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easylive1989" />
     <img src="https://github-readme-stats.vercel.app/api?username=easylive1989" />
 </p>
 
-# 🔧 My Works
+# ✉️ Contact Me
+
 <p floa="left">
-<a href="https://easylive1989.medium.com/">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/paul-wu-810280135/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://play.google.com/store/apps/developer?id=Paul+Wu">
 <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+</a>
 <a href="https://ithelp.ithome.com.tw/users/20129825/ironman/3440">
 <img src="https://img.shields.io/badge/%E5%AE%8C%E8%B3%BD-12th%20iThome%20%E9%90%B5%E4%BA%BA%E8%B3%BD-2485c2" />
 </a>
