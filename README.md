@@ -71,20 +71,7 @@
 
 <p floa="left">
 <a href="https://www.linkedin.com/in/paul-wu-810280135/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://play.google.com/store/apps/developer?id=Paul+Wu">
-<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-</a>
-<a href="https://ithelp.ithome.com.tw/users/20129825/ironman/3440">
-<img src="https://img.shields.io/badge/%E5%AE%8C%E8%B3%BD-12th%20iThome%20%E9%90%B5%E4%BA%BA%E8%B3%BD-2485c2" />
-</a>
-<a href="https://ithelp.ithome.com.tw/users/20129825/ironman/4992">
-<img src="https://img.shields.io/badge/%E4%BD%B3%E4%BD%9C-2022%20iThome%20%E9%90%B5%E4%BA%BA%E8%B3%BD-2485c2" />
-</a>
-<a href="https://ithelp.ithome.com.tw/users/20129825/ironman/5974">
-<img src="https://img.shields.io/badge/%E4%BD%B3%E4%BD%9C-2023%20iThome%20%E9%90%B5%E4%BA%BA%E8%B3%BD-2485c2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
