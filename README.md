@@ -2,11 +2,11 @@
 
 # 📝 Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [從自製 Tab Bar 特效認識 Flutter 核心機制](https://easylive1989.medium.com/%E5%BE%9E%E8%87%AA%E8%A3%BD-tab-bar-%E7%89%B9%E6%95%88%E8%AA%8D%E8%AD%98-flutter-%E6%A0%B8%E5%BF%83%E6%A9%9F%E5%88%B6-b65c80c62dcf?source=rss-e16ddedcd5d2------2)
 - [如何讓 ListView 自動對齊](https://easylive1989.medium.com/%E5%A6%82%E4%BD%95%E8%AE%93-listview-%E8%87%AA%E5%8B%95%E5%B0%8D%E9%BD%8A-e36476c3068e?source=rss-e16ddedcd5d2------2)
 - [減緩 PageView 動畫加上 Table 造成的卡頓 — 解決篇](https://medium.com/cloud-latitude-engineering-blog/%E6%B8%9B%E7%B7%A9-pageview-%E5%8B%95%E7%95%AB%E5%8A%A0%E4%B8%8A-table-%E9%80%A0%E6%88%90%E7%9A%84%E5%8D%A1%E9%A0%93-%E8%A7%A3%E6%B1%BA%E7%AF%87-c17e93a8c4de?source=rss-e16ddedcd5d2------2)
 - [減緩 PageView 動畫加上 Table 造成的卡頓 — 問題篇](https://medium.com/cloud-latitude-engineering-blog/%E6%B8%9B%E7%B7%A9-pageview-%E5%8B%95%E7%95%AB%E5%8A%A0%E4%B8%8A-table-%E9%80%A0%E6%88%90%E7%9A%84%E5%8D%A1%E9%A0%93-%E5%95%8F%E9%A1%8C%E7%AF%87-7da0051d25ff?source=rss-e16ddedcd5d2------2)
 - [Flutter Theme 切換效果研究](https://easylive1989.medium.com/flutter-theme-%E5%88%87%E6%8F%9B-30b80a9f408d?source=rss-e16ddedcd5d2------2)
-- [用 Widget Test 測試 Routing](https://easylive1989.medium.com/%E7%94%A8-widget-test-%E6%B8%AC%E8%A9%A6-routing-c180c8665b49?source=rss-e16ddedcd5d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🔧 Skills
