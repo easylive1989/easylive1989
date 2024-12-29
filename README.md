@@ -2,11 +2,11 @@
 
 # 📝 Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [新書介紹：不可不知的 Flutter App 自動化測試實戰攻略](https://medium.com/%E4%BF%9D%E7%BE%85%E7%9A%84-flutter-%E9%96%8B%E7%99%BC%E6%8A%80%E5%B7%A7/%E4%B8%8D%E5%8F%AF%E4%B8%8D%E7%9F%A5%E7%9A%84-flutter-app-%E8%87%AA%E5%8B%95%E5%8C%96%E6%B8%AC%E8%A9%A6%E5%AF%A6%E6%88%B0%E6%94%BB%E7%95%A5-8f6678665a9c?source=rss-e16ddedcd5d2------2)
 - [Container — 一個你最熟悉又最陌生的 Widget](https://medium.com/%E4%BF%9D%E7%BE%85%E7%9A%84-flutter-%E9%96%8B%E7%99%BC%E6%8A%80%E5%B7%A7/container-%E4%B8%80%E5%80%8B%E4%BD%A0%E6%9C%80%E7%86%9F%E6%82%89%E5%8F%88%E6%9C%80%E9%99%8C%E7%94%9F%E7%9A%84-widget-4d7a79ee79e6?source=rss-e16ddedcd5d2------2)
 - [自製 Flutter Tab Bar — 深入底層更新機制](https://medium.com/%E4%BF%9D%E7%BE%85%E7%9A%84-flutter-%E9%96%8B%E7%99%BC%E6%8A%80%E5%B7%A7/%E8%87%AA%E8%A3%BD-flutter-tab-bar-%E6%B7%B1%E5%85%A5%E5%BA%95%E5%B1%A4%E6%9B%B4%E6%96%B0%E6%A9%9F%E5%88%B6-28ecabf6a7ff?source=rss-e16ddedcd5d2------2)
 - [自製 Flutter Tab Bar — 使用 CustomMultiChildLayout](https://medium.com/%E4%BF%9D%E7%BE%85%E7%9A%84-flutter-%E9%96%8B%E7%99%BC%E6%8A%80%E5%B7%A7/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3-flutter-row-%E7%9A%84%E4%BD%88%E5%B1%80%E9%81%8B%E4%BD%9C%E6%A9%9F%E5%88%B6-9e75f913a449?source=rss-e16ddedcd5d2------2)
 - [自製 Flutter Tab Bar — 使用 CustomMultiChildLayout](https://medium.com/%E4%BF%9D%E7%BE%85%E7%9A%84-flutter-%E9%96%8B%E7%99%BC%E6%8A%80%E5%B7%A7/%E5%BE%9E%E8%87%AA%E8%A3%BD-tab-bar-%E7%89%B9%E6%95%88%E8%AA%8D%E8%AD%98-flutter-%E6%A0%B8%E5%BF%83%E6%A9%9F%E5%88%B6-b65c80c62dcf?source=rss-e16ddedcd5d2------2)
-- [如何讓 ListView 自動對齊](https://medium.com/%E4%BF%9D%E7%BE%85%E7%9A%84-flutter-%E9%96%8B%E7%99%BC%E6%8A%80%E5%B7%A7/%E5%A6%82%E4%BD%95%E8%AE%93-listview-%E8%87%AA%E5%8B%95%E5%B0%8D%E9%BD%8A-e36476c3068e?source=rss-e16ddedcd5d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🔧 Skills
