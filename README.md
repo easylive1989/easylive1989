@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Paul%20Wu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Flutter%20·%20.NET%20·%20AI&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=持續學習軟體開發的藝術" />
 </p>
 
 ---
@@ -47,6 +51,14 @@
 
 <p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=easylive1989&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/easylive1989/easylive1989/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
