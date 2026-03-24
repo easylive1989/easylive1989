@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=持續學習軟體開發的藝術" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%E6%8C%81%E7%BA%8C%E5%AD%B8%E7%BF%92%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E7%9A%84%E8%97%9D%E8%A1%93" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/easylive1989/easylive1989/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -52,25 +56,6 @@
 <p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=easylive1989&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
----
-
-## Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/easylive1989/easylive1989/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## Featured Projects
-
-| 專案 | 描述 | 技術棧 |
-|------|------|--------|
-| [讀景 Contexture](https://github.com/easylive1989/instant_explore) | AI 語音旅遊導覽 App，已上架雙平台 | Flutter · Gemini · Supabase · Riverpod |
-| [Puzzle](https://github.com/easylive1989/puzzle) | 數字與圖片拼圖遊戲，完整三層測試 | Flutter · Firebase |
-| [LittleFlowerBot](https://github.com/easylive1989/LittleFlowerBot) | Line 棋盤遊戲 Bot，乾淨架構 | .NET · PostgreSQL · Redis |
-| [Learn with Paul](https://easylive1989.github.io) | 個人技術部落格，Notion 作為 CMS | Astro · TypeScript · Notion API |
 
 ---
 
