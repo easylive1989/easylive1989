@@ -4,15 +4,6 @@
 
 ---
 
-## About Me
-
-- 全端開發者，主力 Flutter 跨平台行動 App 開發
-- 熱衷於乾淨架構、測試驅動開發（TDD）
-- 正在深入探索 AI 應用整合（Gemini / Firebase AI）
-- 技術部落格：[Learn with Paul](https://easylive1989.github.io)
-
----
-
 ## Tech Stack
 
 **Mobile & Frontend**
