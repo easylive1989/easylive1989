@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=620&lines=A+ceaseless+journey+in+the+art+of+software+development." />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=36&pause=2000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=A+ceaseless+journey+in+the+art+of+software+development." />
 </p>
 
 <p align="center">
